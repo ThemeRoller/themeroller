@@ -1,0 +1,11 @@
+{
+    "name": "themeroller",
+    "description": "",
+    "version": "0.0.0",
+    "homepage": "http://github.com/ThemeRoller/themeroller",
+    "main": "src/themeroller",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/ThemeRoller/themeroller.git"
+    }
+}
